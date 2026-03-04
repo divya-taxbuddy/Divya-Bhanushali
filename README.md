@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Divya Bhanushali] 👋
 
 ### Head of Product · AI/ML Enthusiast · FinTech Builder
 
