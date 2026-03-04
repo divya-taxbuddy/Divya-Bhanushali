@@ -4,9 +4,9 @@
 
 ### Head of Product · AI/ML Enthusiast · FinTech Builder
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourhandle)
-[![Website](https://img.shields.io/badge/Website-FF6B35?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cadivyabhanushali))
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/divyabhanusha11?s=11)
+[![Website](https://img.shields.io/badge/Website-FF6B35?style=for-the-badge&logo=About.me&logoColor=white)](https://www.taxbuddy.com)
 
 </div>
 
