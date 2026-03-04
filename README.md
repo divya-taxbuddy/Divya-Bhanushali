@@ -81,7 +81,7 @@ I'm always open to:
 - 🧩 Collaborating on open-source tools for finance or PM workflows
 - 🎤 Speaking or writing opportunities
 
-**DM me on [LinkedIn](https://linkedin.com/in/yourprofile) or drop a ⭐ on a repo that interests you.**
+**DM me on [LinkedIn](https://www.linkedin.com/in/cadivyabhanushali) or drop a ⭐ on a repo that interests you.**
 
 ---
 
